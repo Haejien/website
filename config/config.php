@@ -176,18 +176,18 @@ return array (
 		'driverOptions'	=> array(PDO::MYSQL_ATTR_INIT_COMMAND => 'SET NAMES UTF8,time_zone = \'+0:00\'')
 	),
 	'meta' => array (
-		'shortName'			=> 'Destiny',
-		'title'				=> 'Destiny - Steven Bonnell II',
-		'author'			=> 'Steven Bonnell II',
-		'description'		=> 'Steven (Destiny) Bonnell II is a professional streamer, primarily playing games, but will often venture off into other topics, including but not limited to: philosophy, youtube videos, music and all sorts of wonderful pseudo-intellectualism.',
-		'keywords'			=> 'Steven Bonnell,Destiny,Destiny.gg,StarCraft,StarCraft2,Counter Strike,CS:GO,League of Legends,Hearth Stone,streamer,stream,game,pc,build a box',
-		'video'				=> 'http://www-cdn.jtvnw.net/widgets/live_facebook_embed_player.swf?channel=destiny',
-		'videoSecureUrl'	=> 'https://secure.jtvnw.net/widgets/live_facebook_embed_player.swf?channel=destiny'
+		'shortName'			=> 'Haejien',
+		'title'				=> 'Haejien',
+		'author'			=> 'Steven Bonnell II & Haejien',
+		'description'		=> 'Haejien streams 3DS games most of the time and listens to music sometimes.',
+		'keywords'			=> 'Haejien,stream,streamer,3ds stream,fireemblem,fefates,xenoblade stream, pokemon stream',
+		'video'				=> 'http://www-cdn.jtvnw.net/widgets/live_facebook_embed_player.swf?channel=haejien',
+		'videoSecureUrl'	=> 'https://secure.jtvnw.net/widgets/live_facebook_embed_player.swf?channel=haejien'
 	),
 	'paypal' => array (
-		'support_email'		=> 'support@destiny.gg',
-		'email'				=> 'support@destiny.gg',
-		'name'				=> 'Destiny.gg',
+		'support_email'		=> 'support@haejien.domain',
+		'email'				=> 'support@haejien.domain',
+		'name'				=> 'Haejien.domain',
 		'api' => array (
 			'endpoint'		=> '',
 			'ipn'			=> ''
@@ -220,12 +220,12 @@ return array (
 	),
 	'twitch' => array (
 		'id'                    => 18074328,
-		'user'                  => 'destiny'
+		'user'                  => 'haejien'
 	),
 	'twitter' => array (
 		'user'					=> '',
 	),
-	'subscriptionType'				=> 'destiny.gg',
+	'subscriptionType'				=> 'haejien.domain',
 	'commerce' => array (
 		'currencies' => array (
 			'USD' => array (
@@ -234,7 +234,7 @@ return array (
 			)
 		),
 		'receiver' => array (
-				'brandName'			=> 'Destiny.gg - Subscriptions'
+				'brandName'			=> 'Haejien.gg - Subscriptions'
 		),
 		'receiver_email'			=> '',
 		'currency'					=> 'USD',
